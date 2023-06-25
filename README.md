@@ -1,5 +1,5 @@
 - 👋 Hi, @Praveen-tej
-- - 👀 I’m interested in  development
+- 👀 I’m interested in  development
 - 🌱 I’m currently learning Front end development
 
 
